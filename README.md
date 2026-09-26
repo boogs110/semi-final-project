@@ -6,7 +6,7 @@ Project Code: WST21-PM-2026-SF
 
 Student Name: RAMA, JOHN FRITZ I.
 
-Course & Year: BSIT - 2yr
+Course & Year: BSIT - 2yr SEC-3
 
 **Database Used:** SUPABASE
 
